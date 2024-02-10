@@ -17,7 +17,7 @@ connect =sqlite3.connect('cardssr.db')
 # This block was run second! It populated the table created in the first run!
 
 
-connect.execute("INSERT INTO CARDS (ID,TYPE,CODE)")
+connect.execute("INSERT INTO CARDS (ID,TYPE,CODE) Values(6,'Fusion','SDCB-EN042')")
 all_data= connect.execute('''SELECT * FROM CARDS''')
 for row in all_data:
     print(row)
