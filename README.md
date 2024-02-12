@@ -4,7 +4,7 @@ I decided to learn about sql initialization through Python. I at first thought i
 proved to be too much for the constraints of what I needed and wanted to learn about the SQLITE 3 module.
 
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/t7EehuILmQk))
+[Software Demo Video]((https://youtu.be/t7EehuILmQk))
 
 # Relational Database
 
